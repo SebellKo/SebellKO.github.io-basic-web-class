@@ -394,7 +394,7 @@ ul li
     }
     .about div
     {
-        margin: 0 100px;
+        margin: 0 0;
     }
     @keyframes spin
     {
@@ -463,6 +463,10 @@ ul li
         margin-top: 200px;
         margin-bottom: 100px;
     }
+    .what img
+    {
+        width: 100%;
+    }
     .experience
     {
         width: 100%;
@@ -496,7 +500,14 @@ ul li
     {
         color: #FFC947;
     }
-
+    .url iframe
+    {
+        width: 100%;
+    }
+    .url a span
+    {
+        font-size: 5px
+    };
     .skills
     {
         flex: 5;
@@ -542,6 +553,10 @@ ul li
         margin-top: 200px;
         margin-bottom: 100px;
     }
+    .how img
+    {
+        width: 100%;
+    }
     .paragraph
     {
         text-align: center;
@@ -566,7 +581,7 @@ ul li
 
     .footer table
     {
-        border-spacing: 20px;
+        border-spacing: 10px;
         margin-bottom: 50px;
     }
 
