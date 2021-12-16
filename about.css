@@ -155,7 +155,7 @@ svg
 {
     width: 250px;
     height: 250px;
-    border-radius: 5%;
+    border-radius: 100%;
     box-shadow: 0 3px 6px #DDDDDD, 0 3px 6px rgba(0,0,0,0.23);
 }
 
@@ -435,7 +435,7 @@ ul li
     {
         width: 250px;
         height: 250px;
-        border-radius: 5%;
+        border-radius: 100%;
         box-shadow: 0 3px 6px #DDDDDD, 0 3px 6px rgba(0,0,0,0.23);
     }
 
