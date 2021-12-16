@@ -96,8 +96,7 @@ svg
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    perspective: 800px;
-    
+    perspective: 1000px;
 }
 .about div
 {
@@ -111,7 +110,7 @@ svg
 .profile_cube:hover
 {
     transform-style: preserve-3d;
-    animation: spin linear 3s infinite;
+    animation: spin linear 7s infinite;
 }
 .about span
 {
@@ -156,7 +155,7 @@ svg
 {
     width: 250px;
     height: 250px;
-    border-radius: 100%;
+    border-radius: 5%;
     box-shadow: 0 3px 6px #DDDDDD, 0 3px 6px rgba(0,0,0,0.23);
 }
 
@@ -436,7 +435,7 @@ ul li
     {
         width: 250px;
         height: 250px;
-        border-radius: 100%;
+        border-radius: 5%;
         box-shadow: 0 3px 6px #DDDDDD, 0 3px 6px rgba(0,0,0,0.23);
     }
 
